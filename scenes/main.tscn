@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://cie8gbmdxc4qd"]
+
+[ext_resource type="Script" uid="uid://m10ikn2887ow" path="res://scripts/DialogueRunner.cs" id="1_o5qli"]
+
+[node name="Main" type="Node2D"]
+
+[node name="DialogueRunner" type="Node" parent="."]
+script = ExtResource("1_o5qli")
+DialogueFile = "res://resources/test.json"
+DialogueId = "dialogue1"
+metadata/_custom_type_script = "uid://m10ikn2887ow"
