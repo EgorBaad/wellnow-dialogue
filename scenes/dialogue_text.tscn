@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://b4b5f8fjuc584"]
-
-[ext_resource type="Script" uid="uid://cv43g2itcnjbe" path="res://scripts/DialogueText.cs" id="1_m3n25"]
-
-[node name="DialogueText" type="Label"]
-offset_right = 40.0
-offset_bottom = 23.0
-script = ExtResource("1_m3n25")

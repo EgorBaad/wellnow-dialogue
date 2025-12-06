@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://oo02t8pse1ud"]
+
+[ext_resource type="Script" uid="uid://cv35lef0i087" path="res://scripts/DialogueSpeaker.cs" id="1_6mcmx"]
+
+[node name="DialogueSpeaker" type="Label"]
+offset_right = 40.0
+offset_bottom = 23.0
+script = ExtResource("1_6mcmx")
